@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 5" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "Google v1.0", "postId": 1 },
+    { "id": 2, "body": "Google v2.0", "postId": 2 }
   ],
   "profile": {
     "name": "Google v2.0"
